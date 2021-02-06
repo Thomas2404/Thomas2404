@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hi!I'm Thomas</h1>
+<h3 align="center">A highschooler teaching myself to code.</h3>
 
-<!--
-**Thomas2404/Thomas2404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thomas2404&label=Profile%20views&color=0e75b6&style=flat" alt="thomas2404" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **making minecraft plugins.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Check out my website at [thomas2404.tech](thomas2404.tech)
+
+- 📫 How to reach me **Discord: Thomas#5488**
+
+- ⚡ Fun fact **I've spent over a day riding the Matterhorn on play.imaginefun.net!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucn7ufcslaug1_lnqgrtnebw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucn7ufcslaug1_lnqgrtnebw" height="30" width="40" /></a>
+<a href="https://discord.gg/Thomas#5488" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Thomas#5488" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomas2404&" alt="thomas2404" /></p>
+
