@@ -21,7 +21,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomas2404&" alt="thomas2404" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomas2404&show_icons=true&theme=radical)
-
-![Metrics](https://github.com/thomas2404/my-github-user/blob/master/github-metrics.svg)
-
