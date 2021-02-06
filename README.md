@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **making minecraft plugins.**
 
-- 👨‍💻 Check out my website at [thomas2404.tech](thomas2404.tech)
+- 👨‍💻 Check out my website at [thomas2404.tech](https://thomas2404.tech/)
 
 - 📫 How to reach me **Discord: Thomas#5488**
 
