@@ -11,11 +11,6 @@
 
 - ⚡ Fun fact **I've spent over a day riding the Matterhorn on play.imaginefun.net!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/Thomas#5488" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Thomas#5488" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
