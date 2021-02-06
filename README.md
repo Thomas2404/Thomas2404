@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucn7ufcslaug1_lnqgrtnebw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucn7ufcslaug1_lnqgrtnebw" height="30" width="40" /></a>
 <a href="https://discord.gg/Thomas#5488" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Thomas#5488" height="30" width="40" /></a>
 </p>
 
@@ -22,5 +21,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomas2404&" alt="thomas2404" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomas2404)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomas2404&show_icons=true&theme=radical)
 
